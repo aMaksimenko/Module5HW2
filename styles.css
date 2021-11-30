@@ -1,0 +1,43 @@
+/*Task #1*/
+
+/*main p {*/
+/*    color: green;*/
+/*}*/
+
+
+/*Task #2*/
+
+a[href^="https"] {
+    color: red;
+}
+
+.holder .list li:last-child {
+    background: green;
+}
+
+ul + p {
+    font-size: 26px;
+}
+
+
+/*Task #3*/
+
+.text-box h3:first-child {
+    color: pink;
+}
+
+.text-box #greycol {
+    color: grey
+}
+
+.text-box > div > p {
+    color: red;
+}
+
+.text-box > p:nth-last-child(2) {
+    color: green;
+}
+
+.text-box .yellow {
+    color: yellow;
+}
